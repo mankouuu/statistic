@@ -13,3 +13,10 @@ L'application permettra d'afficher les statistiques suivantes :
 * moyenne
 * valeur minimum
 * valeur maximum
+## Exécuter l'application
+
+```shell
+python3 main.py
+```
+## Capture d'écran de l'application
+![](Application_Statistique.png)
